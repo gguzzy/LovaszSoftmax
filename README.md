@@ -51,3 +51,13 @@ Please cite
   year={2018}
 }
 ```
+
+### **Update 2024: 
+
+Gianluca Guzzetta
+
+Politecnico di Torino
+
+#### Update on pytorch version
+
+Implemented a pytorch version which takes advantage of GPU capabilities using tensors. This version can be tried it out using the script stored inside the folder 'pytorch_tensor'.
